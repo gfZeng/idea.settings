@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ClojureProjectResolveSettings">
+        <currentScheme>IDE</currentScheme>
+      </component>
+      <component name="JuliaProjectSettings">
+        <option name="basePath" value="/Applications/Julia-1.4.app/Contents/Resources/julia/share/julia/base" />
+        <option name="exePath" value="/Applications/Julia-1.4.app/Contents/Resources/julia/bin/julia" />
+        <option name="version" value="1.4.2" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="org.ice1000.julia.lang.module.ui.JuliaDocumentConfigurableImpl" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="Settings">
+    <option name="servers">
+      <list>
+        <KServerSpec>
+          <option name="host" value="127.0.0.1" />
+          <option name="name" value="X" />
+          <option name="port" value="7777" />
+        </KServerSpec>
+      </list>
+    </option>
+  </component>
+</application>
