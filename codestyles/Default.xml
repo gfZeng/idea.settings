@@ -19,10 +19,16 @@
     <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
   </JetCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="addImportMostCloseToReference" value="true" />
+    <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="SCALAFMT_FALLBACK_TO_DEFAULT_SETTINGS" value="true" />
-    <option name="FORMATTER" value="1" />
+    <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
+    <option name="MULTILINE_STRING_ALIGN_DANGLING_CLOSING_QUOTES" value="true" />
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+    <option name="REFORMAT_ON_COMPILE" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="EditorConfig">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
@@ -35,6 +41,14 @@
     <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
     <option name="ALIGN_CONSECUTIVE_ASSIGNMENTS" value="true" />
     <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
