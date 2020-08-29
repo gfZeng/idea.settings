@@ -20,7 +20,7 @@
   </JetCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="addImportMostCloseToReference" value="true" />
-    <option name="ALIGN_EXTENDS_WITH" value="3" />
+    <option name="PLACE_SELF_TYPE_ON_NEW_LINE" value="false" />
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
@@ -30,7 +30,6 @@
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
     <option name="MULTILINE_STRING_ALIGN_DANGLING_CLOSING_QUOTES" value="true" />
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
-    <option name="TRAILING_COMMA_MODE" value="TRAILING_COMMA_ADD_WHEN_MULTILINE" />
     <option name="REFORMAT_ON_COMPILE" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="EditorConfig">
