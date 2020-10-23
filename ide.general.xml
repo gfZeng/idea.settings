@@ -2,7 +2,4 @@
   <component name="GeneralSettings">
     <option name="showTipsOnStartup" value="false" />
   </component>
-  <component name="Registry">
-    <entry key="compiler.process.jdk" value="/Library/Java/JavaVirtualMachines/jdk-15.jdk/Contents/Home" />
-  </component>
 </application>
