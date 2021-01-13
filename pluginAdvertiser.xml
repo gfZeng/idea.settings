@@ -131,8 +131,8 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
-              <option name="myPluginName" value="Rainbow CSV" />
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1466,6 +1466,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="MUnitRunConfiguration">
